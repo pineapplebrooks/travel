@@ -1,20 +1,19 @@
-.container {
-    display: grid;
-    grid-template-columns: 4.5fr 1fr 1fr 1fr 2.5fr;
-    grid-auto-rows: 200px;
+body {
+    background-color: #001c4a;
 }
 
-.pacifico-regular {
-    font-family: "Pacifico", cursive;
-    font-weight: 400;
-    font-style: normal;
+.container {
+    display: grid;
+    grid-template-columns: 3fr 1fr 1fr 1fr 3.5fr;
+    /*grid-auto-rows: 170px;*/
 }
 
 .month {
-    font-size: 650%;
+    font-size: 550%;
     text-align: right;
     font-family: Pacifico, serif;
     margin: 20px;
+    color: white;
 }
 
 .day {
@@ -22,4 +21,147 @@
     text-align: right;
     font-family: Pacifico, serif;
     margin: 20px;
+    color: white;
+    align-self: center;
+}
+
+.person {
+    font-size: 400%;
+    text-align: left;
+    align-self: center;
+    margin-left: 7%;
+    margin-right: 4%;
+    font-family: Tuffy, sans-serif;
+}
+
+#kyle1 {
+    background-color: #00aacc;
+    width: 80%;
+    align-self: center;
+    justify-self: center;
+    height: 99%;
+    border-radius: 100px 100px 100px 100px;
+}
+
+#kyle2 {
+    background-color: #00aacc;
+    width: 80%;
+    align-self: end;
+    justify-self: center;
+    height: 70%;
+    border-radius: 100px 100px 0px 0px;
+}
+
+#kyle3 {
+    background-color: #00aacc;
+    width: 80%;
+    align-self: center;
+    justify-self: center;
+    height: 100%;
+    border-radius: 0;
+}
+
+#kyle4 {
+    background-color: #00aacc;
+    width: 80%;
+    align-self: start;
+    justify-self: center;
+    height: 99%;
+    border-radius: 0px 0px 100px 100px;
+}
+
+#acLina {
+    background-color: #d9c302;
+    width: 80%;
+    align-self: center;
+    justify-self: center;
+    height: 90%;
+    border-radius: 100px 100px 100px 100px;
+}
+
+#stella0 {
+    background-color: #ff91e7;
+    width: 80%;
+    align-self: end;
+    justify-self: center;
+    height: 80%;
+    border-radius: 100px 100px 100px 100px;
+}
+
+#stella1 {
+    background-color: #ff91e7;
+    width: 80%;
+    align-self: end;
+    justify-self: center;
+    height: 100%;
+    border-radius: 100px 100px 0px 0px;
+}
+
+#stella2 {
+    background-color: #ff91e7;
+    width: 80%;
+    align-self: start;
+    justify-self: center;
+    height: 99%;
+    border-radius: 0px 0px 100px 100px;
+}
+
+#ashleigh1 {
+    background-color: #c73110;
+    width: 80%;
+    align-self: end;
+    justify-self: center;
+    height: 70%;
+    border-radius: 100px 100px 0px 0px;
+}
+
+#ashleigh2 {
+    background-color: #c73110;
+    width: 80%;
+    align-self: start;
+    justify-self: center;
+    height: 99%;
+    border-radius: 0px 0px 100px 100px;
+}
+
+#delaney1 {
+    background-color: #10c787;
+    width: 80%;
+    align-self: center;
+    justify-self: center;
+    height: 85%;
+    border-radius: 100px 100px 100px 100px;
+}
+
+
+/* FONTS BELOW: */
+
+.pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.tuffy-regular {
+    font-family: "Tuffy", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.tuffy-bold {
+    font-family: "Tuffy", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.tuffy-regular-italic {
+    font-family: "Tuffy", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.tuffy-bold-italic {
+    font-family: "Tuffy", sans-serif;
+    font-weight: 700;
+    font-style: italic;
 }
