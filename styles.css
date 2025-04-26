@@ -1,3 +1,13 @@
+@font-face {
+    font-family: 'Pacifico';
+    src: url('Pacifico-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Tuffy';
+    src: url('Tuffy-Regular.ttf');
+}
+
 body {
     background-color: #001c4a;
 }
@@ -77,16 +87,16 @@ body {
     width: 80%;
     align-self: center;
     justify-self: center;
-    height: 90%;
+    height: 93%;
     border-radius: 100px 100px 100px 100px;
 }
 
 #stella0 {
     background-color: #ff91e7;
     width: 80%;
-    align-self: end;
+    align-self: center;
     justify-self: center;
-    height: 80%;
+    height: 90%;
     border-radius: 100px 100px 100px 100px;
 }
 
@@ -109,7 +119,7 @@ body {
 }
 
 #ashleigh1 {
-    background-color: #c73110;
+    background-color: #de0909;
     width: 80%;
     align-self: end;
     justify-self: center;
@@ -118,7 +128,7 @@ body {
 }
 
 #ashleigh2 {
-    background-color: #c73110;
+    background-color: #de0909;
     width: 80%;
     align-self: start;
     justify-self: center;
@@ -131,7 +141,7 @@ body {
     width: 80%;
     align-self: center;
     justify-self: center;
-    height: 85%;
+    height: 90%;
     border-radius: 100px 100px 100px 100px;
 }
 
@@ -162,8 +172,8 @@ body {
     border-radius: 100px 100px 100px 100px;
 }
 
-#auden2 {
-    background-color: #c257e6;
+#audkra1 {
+    background-color: #ff3179;
     width: 80%;
     align-self: end;
     justify-self: center;
@@ -171,8 +181,8 @@ body {
     border-radius: 100px 100px 0 0;
 }
 
-#auden3 {
-    background-color: #c257e6;
+#audkra2 {
+    background-color: #ff3179;
     width: 80%;
     align-self: start;
     justify-self: center;
@@ -180,8 +190,8 @@ body {
     border-radius: 0 0 100px 100px;
 }
 
-#auden4 {
-    background-color: #c257e6;
+#audkra3 {
+    background-color: #ff3179;
     width: 80%;
     align-self: end;
     justify-self: center;
@@ -189,13 +199,49 @@ body {
     border-radius: 100px 100px 0 0;
 }
 
-#auden5 {
-    background-color: #c257e6;
+#audkra4 {
+    background-color: #ff3179;
+    width: 80%;
+    align-self: start;
+    justify-self: center;
+    height: 99%;
+    border-radius: 0 0 100px 100px;
+}
+
+#romina1 {
+    background-color: #1aa214;
+    width: 80%;
+    align-self: center;
+    justify-self: center;
+    height: 92%;
+    border-radius: 100px 100px 100px 100px;
+}
+
+#romina2 {
+    background-color: #1aa214;
+    width: 80%;
+    align-self: center;
+    justify-self: center;
+    height: 80%;
+    border-radius: 100px 100px 100px 100px;
+}
+
+#romina3 {
+    background-color: #1aa214;
+    width: 80%;
+    align-self: end;
+    justify-self: center;
+    height: 97%;
+    border-radius: 100px 100px 100px 100px;
+}
+
+#romina4 {
+    background-color: #1aa214;
     width: 80%;
     align-self: start;
     justify-self: center;
     height: 98%;
-    border-radius: 0 0 100px 100px;
+    border-radius: 100px 100px 100px 100px;
 }
 
 /* FONTS BELOW: */
