@@ -49,10 +49,11 @@ body {
 #kyle1 {
     background-color: #00aacc;
     width: 80%;
-    align-self: center;
+    align-self: end;
     justify-self: center;
     height: 97%;
     border-radius: 100px 100px 100px 100px;
+    margin-bottom: 30px;
 }
 
 #kyle2 {
@@ -94,10 +95,11 @@ body {
 #stella0 {
     background-color: #ff91e7;
     width: 80%;
-    align-self: center;
+    align-self: end;
     justify-self: center;
     height: 90%;
     border-radius: 100px 100px 100px 100px;
+    margin-bottom: 30px;
 }
 
 #stella1 {
@@ -200,11 +202,20 @@ body {
 }
 
 #audkra4 {
-    background-color: #ff3179;
+    background-color: #c257e6;
     width: 80%;
     align-self: start;
     justify-self: center;
     height: 99%;
+    border-radius: 0 0 100px 100px;
+}
+
+#ikra1 {
+    background-color: #ff3179;
+    width: 80%;
+    align-self: start;
+    justify-self: center;
+    height: 95%;
     border-radius: 0 0 100px 100px;
 }
 
