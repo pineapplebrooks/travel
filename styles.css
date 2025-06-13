@@ -92,6 +92,33 @@ body {
     border-radius: 100px 100px 100px 100px;
 }
 
+#lina1 {
+    background-color: #d9c302;
+    width: 80%;
+    align-self: end;
+    justify-self: center;
+    height: 70%;
+    border-radius: 100px 100px 0 0;
+}
+
+#lina2 {
+    background-color: #d9c302;
+    width: 80%;
+    align-self: center;
+    justify-self: center;
+    height: 100%;
+    border-radius: 0;
+}
+
+#lina3 {
+    background-color: #d9c302;
+    width: 80%;
+    align-self: start;
+    justify-self: center;
+    height: 95%;
+    border-radius: 0 0 100px 100px;
+}
+
 #stella0 {
     background-color: #ff91e7;
     width: 80%;
@@ -132,10 +159,10 @@ body {
 #ashleigh2 {
     background-color: #de0909;
     width: 80%;
-    align-self: start;
+    align-self: center;
     justify-self: center;
-    height: 99%;
-    border-radius: 0 0 100px 100px;
+    height: 90%;
+    border-radius: 100px 100px 100px 100px;
 }
 
 #delaney1 {
@@ -216,6 +243,15 @@ body {
     align-self: start;
     justify-self: center;
     height: 95%;
+    border-radius: 100px 100px 100px 100px;
+}
+
+#ikra2 {
+    background-color: #ff3179;
+    width: 80%;
+    align-self: start;
+    justify-self: center;
+    height: 95%;
     border-radius: 0 0 100px 100px;
 }
 
@@ -231,9 +267,9 @@ body {
 #romina2 {
     background-color: #1aa214;
     width: 80%;
-    align-self: center;
+    align-self: start;
     justify-self: center;
-    height: 80%;
+    height: 90%;
     border-radius: 100px 100px 100px 100px;
 }
 
